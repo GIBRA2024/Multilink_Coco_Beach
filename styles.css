@@ -91,3 +91,13 @@ footer {
     margin: 15px auto;
     border-bottom: 2px solid #000;
 }
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: #04364f; /* Verde */
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
